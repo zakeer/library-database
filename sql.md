@@ -6,6 +6,9 @@
     - Integers (Number format)
     - Dates 
 
+1. Creating database
+    - Create a database for any individual project
+
 1. Creating Tables
     - Creating a table and defining its columns, including specifying data types of the columns
 
